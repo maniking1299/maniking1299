@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maniking1299
+- 👋 Hi, I’m Manish Kumar
 - 👀 I’m interested in Money.
 - 🌱 I’m currently learning DSA with Java.
 - 💞️ I’m looking to collaborate on ....
