@@ -2,7 +2,6 @@
 🎓 3rd Year B.Tech Student at Quantum University  
 💻 Passionate about Backend Development (Node.js, Express.js, MongoDB)  
 🚀 Currently building real-world web apps and bots.
-
 🌱 I’m currently learning DSA with Java.
 
  
