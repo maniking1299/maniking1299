@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Manish Kumar
-- 👀 I’m interested in Money.
-- 🌱 I’m currently learning DSA with Java.
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+👋 Hi, I'm Manish Kumar  
+🎓 3rd Year B.Tech Student at Quantum University  
+💻 Passionate about Backend Development (Node.js, Express.js, MongoDB)  
+🚀 Currently building real-world web apps and bots.
+🌱 I’m currently learning DSA with Java.
+
+ 
 
 <!---
 maniking1299/maniking1299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
