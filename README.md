@@ -53,7 +53,7 @@ Strong interest in writing clean, efficient code and building practical projects
 
 ## 📫 Contact
 
-- 💼 LinkedIn: www.linkedin.com/in/manish-kumar-4190a2281
+- 💼 LinkedIn:www.linkedin.com/in/manishkumar1299
 - 🧑‍💻 GitHub: *You’re here*
 
 ---
