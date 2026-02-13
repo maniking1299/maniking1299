@@ -6,12 +6,12 @@ Strong interest in writing clean, efficient code and building practical projects
 ---
 
 ## 👨‍💻 About Me
-🎓 Computer Science undergraduate
-💻 Full Stack Developer (MERN Stack)
-☕ Strong foundation in Java, Data Structures & Algorithms, and Object-Oriented Programming
-🧠 Focused on writing optimized and maintainable solutions
-🚀 Building real-world projects to strengthen backend and system design fundamentals
-🎯 Actively seeking Software Engineering Internship opportunities
+-🎓 Computer Science undergraduate
+-💻 Full Stack Developer (MERN Stack)
+-☕ Strong foundation in Java, Data Structures & Algorithms, and Object-Oriented Programming
+-🧠 Focused on writing optimized and maintainable solutions
+-🚀 Building real-world projects to strengthen backend and system design fundamentals
+-🎯 Actively seeking Software Engineering Internship opportunities
 
 ---
 
