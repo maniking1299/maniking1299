@@ -44,16 +44,16 @@ Strong interest in writing clean, efficient code and building practical projects
 
 ## 📂 Projects
 
-WanderLust – Airbnb-like Property Listing Platform
+## 🏡 WanderLust – Airbnb-like Property Listing Platform  
 
-Tech: Node.js, Express.js, MongoDB, Mongoose, EJS, Passport.js
+**Tech:** Node.js · Express · MongoDB · Mongoose · EJS · Passport.js  
 
-• Built MVC-based full-stack web app for property listings & reviews  
-• Implemented secure authentication (Passport.js + sessions)  
-• Designed RESTful CRUD APIs  
-• Applied modular routing & middleware-based error handling  
-• Integrated MongoDB with Mongoose for schema modeling  
-
+- MVC full-stack property listing & review app  
+- Secure auth with Passport.js + sessions  
+- CRUD REST APIs  
+- Modular routing & middleware error handling  
+- Mongoose schema modeling  
+🔗 Repo: https://github.com/maniking1299/WanderLust
 ---
 
 ## 📈 Current Focus
