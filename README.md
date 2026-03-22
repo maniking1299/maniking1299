@@ -32,9 +32,9 @@ Strong interest in writing clean, efficient code and building practical projects
 - Responsive UI Design
 
 ### Backend & Databases
-- Node.js (Basics)
+- Node.js 
 - RESTful APIs
-- MySQL, MongoDB (Fundamentals)
+- MySQL, MongoDB 
 
 ### Tools & Platforms
 - Git & GitHub
