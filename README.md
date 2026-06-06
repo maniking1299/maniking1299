@@ -34,10 +34,10 @@ Currently focused on backend engineering, system design fundamentals, and prepar
 ### Databases
 - MySQL
 - MongoDB
+- PostgreSql
 - JPA / Hibernate
 
 ### Frontend
-- React.js
 - HTML5
 - CSS3
 - JavaScript
