@@ -56,4 +56,4 @@ Node.js · Express.js · MongoDB · Passport.js · MVC · RESTful CRUD
 - 📧 kumarmanish20052004@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/manishkumar1299)
 
-**Open to SDE internships — Java backend · Product companies · Startups · India**
+**Open to SDE internships — Java backend Developer**
