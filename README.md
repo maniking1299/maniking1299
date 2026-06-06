@@ -1,165 +1,59 @@
-# Hi, I'm Manish Kumar 👋
+# Manish Kumar
 
-### Java Backend Developer | Spring Boot Developer | SDE Aspirant
+**Java Backend Developer** · B.Tech CSE @ Quantum University, Roorkee (2027)
 
-Computer Science undergraduate passionate about building scalable backend systems using Java and Spring Boot.
-
-I enjoy designing REST APIs, implementing authentication systems, working with databases, and solving Data Structures & Algorithms problems in Java.
-
-Currently focused on backend engineering, system design fundamentals, and preparing for Software Development Engineer (SDE) internships.
+I build backend systems — REST APIs, async job processors, containerized deployment pipelines.
 
 ---
 
-## 🚀 About Me
+## 🚀 VDeploy — Deployment Automation Platform
 
-- 🎓 Computer Science Undergraduate
-- ☕ Backend Developer specializing in Java & Spring Boot
-- 🧠 Strong foundation in Data Structures & Algorithms
-- 🔐 Experience implementing Authentication & Authorization
-- 🏗️ Interested in Scalable Backend Architectures
-- 🚀 Actively preparing for Software Development Engineer Internships
+> A Vercel-inspired platform built entirely in Java. Submit a GitHub repo → get a live deployment.
+
+**What it does:**
+Users provide a GitHub repo URL, build command, and output directory.
+VDeploy clones the repo, runs the build inside a Docker container, uploads output to AWS S3, and serves the app via Nginx at a unique URL.
+
+**Technical decisions worth noting:**
+
+| Decision | Why |
+|---|---|
+| `LinkedBlockingQueue` for job processing | Decouples API from slow deployment execution. API returns immediately, worker processes async. |
+| Docker via `ProcessBuilder` | Isolates each build. One failing deployment can't affect others. |
+| PostgreSQL state machine | Deployment moves through `QUEUED → RUNNING → SUCCESS → FAILED`. Reliable tracking, easy debugging. |
+| Stateless JWT auth | No server-side session state. Scales horizontally without sticky sessions. |
+
+**Stack:** Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · JPA/Hibernate · Docker · AWS S3 · Nginx · Maven
+
+🔗 [View Repository](https://github.com/maniking1299/Vercel-Clone)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend Development
-- Java
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- REST APIs
-- Maven
-
-### Databases
-- MySQL
-- MongoDB
-- PostgreSql
-- JPA / Hibernate
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-
-### Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Docker
-- VS Code
-- IntelliJ IDEA
+```
+Languages      Java 21 (primary) · JavaScript · SQL
+Backend        Spring Boot 3.5 · Spring Security · REST APIs · Node.js · Express.js  
+Auth           JWT · BCrypt · Passport.js
+Databases      PostgreSQL · MongoDB · JPA/Hibernate · Mongoose
+DevOps         Docker · AWS S3 · AWS EC2 · Nginx
+Tools          Maven · Lombok · Slf4j · Git · Postman · IntelliJ IDEA
+CS             DSA · OOP · DBMS · OS · Computer Networks
+```
 
 ---
 
-# 📂 Featured Projects
+## 📂 Other Projects
 
-## 🚀 Vercel Clone (In Progress)
-
-**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Docker
-
-A backend-focused cloud deployment platform inspired by Vercel that allows users to deploy and manage applications through a scalable architecture.
-
-### Features Implemented
-
-✅ User Authentication & Authorization
-
-- JWT-based Authentication
-- Spring Security Integration
-- Secure API Access Control
-
-✅ Project Management
-
-- Create and Manage Projects
-- Project Metadata Storage
-- Deployment Tracking
-
-✅ Build System
-
-- ProcessBuilder-based Build Execution
-- Real Build Command Execution
-- Deployment Status Monitoring
-
-✅ Queue Architecture
-
-- Deployment Queue Management
-- Asynchronous Build Processing
-
-✅ Docker Integration
-
-- Containerized Build Environment
-- Isolated Build Execution
-- Deployment Automation
-
-### Currently Working On
-
-- Deployment Logs Streaming
-- Cloud Storage Integration
-- CI/CD Improvements
-- Production Deployment Architecture
-- Scalable Deployment Pipeline
-
-🔗 Repository:
-https://github.com/maniking1299/Vercel-Clone
+**WanderLust** — Airbnb-style property listing platform
+Node.js · Express.js · MongoDB · Passport.js · MVC · RESTful CRUD
+🔗 [Repository](https://github.com/maniking1299/WanderLust)
 
 ---
 
-## 🏡 WanderLust – Airbnb-like Property Listing Platform
+## 📬 Contact
 
-**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, Passport.js
+- 📧 kumarmanish20052004@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/manishkumar1299)
 
-### Features
-
-- Property Listing Management
-- User Authentication
-- Reviews & Ratings
-- RESTful CRUD APIs
-- MVC Architecture
-- Session-Based Security
-- Error Handling Middleware
-
-🔗 Repository:
-https://github.com/maniking1299/WanderLust
-
----
-
-## 📈 Current Focus
-
-- Advanced Spring Boot Development
-- Backend System Design
-- Scalable REST API Design
-- Docker & Containerization
-- Java DSA for Coding Interviews
-- Low-Level Design (LLD)
-
----
-
-## 📊 GitHub Goals
-
-- Build Production-Ready Backend Projects
-- Master Spring Boot Ecosystem
-- Contribute to Open Source
-- Secure a Backend/SDE Internship
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn:
-www.linkedin.com/in/manishkumar1299
-
-💻 GitHub:
-https://github.com/maniking1299
-
-📧 Open to Backend Development and SDE Internship Opportunities
-
----
-
-⭐ Thanks for visiting my profile!
+**Open to SDE internships — Java backend · Product companies · Startups · India**
