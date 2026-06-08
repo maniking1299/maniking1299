@@ -12,7 +12,7 @@ I build backend systems — REST APIs, async job processors, containerized deplo
 
 **What it does:**
 Users provide a GitHub repo URL, build command, and output directory.
-VDeploy clones the repo, runs the build inside a Docker container, uploads output to AWS S3, and serves the app via Nginx at a unique URL.
+VDeploy clones the repo, runs the build inside a Docker container, uploads output to AWS S3 . 
 
 **Technical decisions worth noting:**
 
@@ -23,7 +23,7 @@ VDeploy clones the repo, runs the build inside a Docker container, uploads outpu
 | PostgreSQL state machine | Deployment moves through `QUEUED → RUNNING → SUCCESS → FAILED`. Reliable tracking, easy debugging. |
 | Stateless JWT auth | No server-side session state. Scales horizontally without sticky sessions. |
 
-**Stack:** Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · JPA/Hibernate · Docker · AWS S3 · Nginx · Maven
+**Stack:** Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · JPA/Hibernate · Docker · AWS S3 · Maven
 
 🔗 [View Repository](https://github.com/maniking1299/Vercel-Clone)
 🔗 [Live](http://13.235.27.137:8080)
