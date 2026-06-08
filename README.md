@@ -26,7 +26,7 @@ VDeploy clones the repo, runs the build inside a Docker container, uploads outpu
 **Stack:** Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · JPA/Hibernate · Docker · AWS S3 · Nginx · Maven
 
 🔗 [View Repository](https://github.com/maniking1299/Vercel-Clone)
-
+🔗 [Live](http://13.235.27.137:8080)
 ---
 
 ## 🛠️ Tech Stack
@@ -48,6 +48,7 @@ CS             DSA · OOP · DBMS · OS · Computer Networks
 **WanderLust** — Airbnb-style property listing platform
 Node.js · Express.js · MongoDB · Passport.js · MVC · RESTful CRUD
 🔗 [Repository](https://github.com/maniking1299/WanderLust)
+
 
 ---
 
