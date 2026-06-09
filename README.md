@@ -1,5 +1,4 @@
 # Manish Kumar
-
 **Java Backend Developer** · B.Tech CSE @ Quantum University, Roorkee (2027)
 
 I build backend systems — REST APIs, async job processors, containerized deployment pipelines.
@@ -7,12 +6,11 @@ I build backend systems — REST APIs, async job processors, containerized deplo
 ---
 
 ## 🚀 VDeploy — Deployment Automation Platform
-
 > A Vercel-inspired platform built entirely in Java. Submit a GitHub repo → get a live deployment.
 
 **What it does:**
 Users provide a GitHub repo URL, build command, and output directory.
-VDeploy clones the repo, runs the build inside a Docker container, uploads output to AWS S3 . 
+VDeploy clones the repo, runs the build inside a Docker container, uploads output to AWS S3, and returns a live public URL.
 
 **Technical decisions worth noting:**
 
@@ -26,8 +24,10 @@ VDeploy clones the repo, runs the build inside a Docker container, uploads outpu
 **Stack:** Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · JPA/Hibernate · Docker · AWS S3 · Maven
 
 🔗 [View Repository](https://github.com/maniking1299/Vercel-Clone)
-🔗 [Live](http://13.235.27.137:8080)
+🔗 [Portfolio deployed by VDeploy](https://vercel-clone-manish.s3.ap-south-1.amazonaws.com/deployments/7/index.html)
+
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -36,19 +36,16 @@ Languages      Java 21 (primary) · JavaScript · SQL
 Backend        Spring Boot 3.5 · Spring Security · REST APIs · Node.js · Express.js  
 Auth           JWT · BCrypt · Passport.js
 Databases      PostgreSQL · MongoDB · JPA/Hibernate · Mongoose
-DevOps         Docker · AWS S3 · AWS EC2 · Nginx
+DevOps         Docker · AWS S3 · AWS EC2 
 Tools          Maven · Lombok · Slf4j · Git · Postman · IntelliJ IDEA
 CS             DSA · OOP · DBMS · OS · Computer Networks
 ```
-
----
 
 ## 📂 Other Projects
 
 **WanderLust** — Airbnb-style property listing platform
 Node.js · Express.js · MongoDB · Passport.js · MVC · RESTful CRUD
 🔗 [Repository](https://github.com/maniking1299/WanderLust)
-
 
 ---
 
@@ -57,4 +54,4 @@ Node.js · Express.js · MongoDB · Passport.js · MVC · RESTful CRUD
 - 📧 kumarmanish20052004@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/manishkumar1299)
 
-**Open to SDE internships — Java backend Developer**
+**Open to Java backend internship opportunities**
