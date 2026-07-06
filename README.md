@@ -34,11 +34,9 @@ focus: ["Backend Engineering", "Distributed Systems Basics", "DSA in Java"]
 philosophy: "Ship real systems, debug them for real, and write about the bugs — not just the features."
 ```
  
-I'm a final-year Computer Science student who builds backend systems the way I'd want to defend them in an interview — deeply, not superficially. My flagship project, **VDeploy**, is a self-hosted deployment platform running live on AWS EC2, built around an async job pipeline with a real state machine and a reconciliation service I wrote after finding a genuine orphaned-state bug on JVM restart.
+Backend-focused Computer Science student building real systems with Java and Spring Boot. I enjoy designing reliable backend services, debugging concurrency issues, and understanding why systems fail—not just making them work. Currently building VDeploy, a self-hosted deployment platform running on AWS EC2 while preparing for backend engineering roles.
  
-I'm not claiming production experience I don't have — I'm a fresher building toward one. What I bring instead is depth: I can walk through *why* a `LinkedBlockingQueue` was the right call for the job pipeline, *how* a missing `waitFor()` timeout caused hung deployments, and *what* it took to fix a stdout stream deadlock. That's the kind of detail I want my code — and this profile — to reflect honestly.
- 
-**🎯 Open To:** Java Backend Internships (India) · Product-based engineering teams · Long-term goal: backend roles in Japan (Mercari) & Southeast Asia
+**🎯 Open To:** Java Backend Internships (India) · Product-based engineering teams · Long-term goal: backend roles in Japan & Southeast Asia
  
 ---
  
@@ -150,20 +148,14 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 </div>
 ---
  
-### 📊 GitHub Analytics
- 
+## 📊 GitHub Metrics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maniking1299&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=maniking1299&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniking1299&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+
+<img src="https://raw.githubusercontent.com/maniking1299/maniking1299/main/github-metrics.svg" width="100%"/>
+
 </div>
----
- 
-### 🏅 GitHub Trophies
- 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=maniking1299&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=8" width="95%"/>
-</div>
+
 ---
  
 ### 📈 Contribution Activity
