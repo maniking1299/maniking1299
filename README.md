@@ -99,7 +99,9 @@ A backend platform that automates repository cloning, Docker builds, artifact st
 | **Reliability** | `StartupReconciliationService` — recovers orphaned `RUNNING` deployments left in an inconsistent state after a JVM restart |
 | **Real Bugs Fixed** | Diagnosed and resolved a stdout stream deadlock in subprocess handling, added a missing `waitFor()` timeout to prevent hung deployments |
 | **Status** | Live on AWS EC2 (Ubuntu, `ap-south-1`), managed as a systemd service |
-| **Repository** | [github.com/maniking1299](https://github.com/maniking1299) |
+| **🌐 Live Demo** | [Live](http://13.205.234.35:8080/) |
+| **Documentation** | [Repo](https://github.com/maniking1299/Vercel-Clone) |
+
  
 VDeploy exists because I wanted a backend project where the interesting part isn't the CRUD, it's the failure modes — what happens when a deployment process hangs, when the server restarts mid-job, when a stream doesn't close cleanly. Solving those is what this project is actually about.
  
@@ -115,7 +117,7 @@ My first full-stack project, built to understand the full request lifecycle from
 | **Features** | RESTful CRUD for property listings with nested reviews |
 | **Auth** | Passport.js (Local Strategy), BCrypt password hashing, session management, HTTP-only cookies |
 | **Architecture** | MVC pattern, modular Express Router, centralized async error-handling middleware |
-| **Repository** | [github.com/maniking1299](https://github.com/maniking1299) |
+| ** Documentation** | [Repo](https://github.com/maniking1299/WanderLust) |
  
 WanderLust predates my Java focus but I keep it front and center because it's honest proof I understand full-stack fundamentals — not just the Spring Boot side of the world.
  
