@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Location-Roorkee%2C_India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <br/><br/>
  
-<a href="https://github.com/maniking1299"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vercel-clone-manish.s3.ap-south-1.amazonaws.com/deployments/7/index.html"><img src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/manishkumar1299"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kumarmanish20052004@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/maniking1299"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -145,7 +145,7 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 ### 👨‍💻 Coding Profiles
  
 <div align="center">
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/maniking1299/"><img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
  
 </div>
 ---
