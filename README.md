@@ -150,16 +150,6 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 </div>
 ---
  
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maniking1299/maniking1299/main/github-metrics.svg" width="100%"/>
-
-</div>
-
----
- 
 ### 📈 Contribution Activity
  
 <div align="center">
