@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manish%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Building%20Scalable%20Backend%20Systems&descAlignY=58&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
@@ -31,13 +32,13 @@
 name: "Manish Kumar"
 role: "Backend Developer (Java / Spring Boot)"
 education: "B.Tech CSE, Quantum University, Roorkee — CGPA 7.97/10 (2023-2027)"
-focus: ["Backend Engineering", "Distributed Systems Basics", "DSA in Java"]
+focus: "Backend Engineering", "Distributed Systems Basics", "DSA in Java"
 philosophy: "Ship real systems, debug them for real, and write about the bugs — not just the features."
 ```
  
 Backend-focused Computer Science student building real systems with Java and Spring Boot. I enjoy designing reliable backend services, debugging concurrency issues, and understanding why systems fail—not just making them work. Currently building VDeploy, a self-hosted deployment platform running on AWS EC2 while preparing for backend engineering roles.
  
-**🎯 Open To:** Java Backend Internships (India) · Product-based engineering teams · Long-term goal: backend roles in Japan & Southeast Asia
+**🎯 Open To:** Java Backend Internships  · Product-based engineering teams .
  
 ---
  
@@ -82,8 +83,8 @@ Backend-focused Computer Science student building real systems with Java and Spr
 | Area | Current Depth | Notes |
 |---|---|---|
 | **Backend Systems** | Building | Async pipelines, state machines, persistent job tracking in Spring Boot |
-| **Data Structures & Algorithms** | Strong | 200+ LeetCode problems solved in Java, working through Striver's DSA sheet |
-| **Cloud Deployment** | Hands-on | Deployed & manage a live service on AWS EC2 (systemd, Elastic IP) |
+| **Data Structures & Algorithms** | Strong | 200+ LeetCode problems solved in Java |
+| **Cloud Deployment** | Hands-on | Deployed & manage a live service on AWS EC2 |
 | **Full-Stack Fundamentals** | Working Knowledge | MVC, auth (Passport.js/JWT), MongoDB & PostgreSQL from WanderLust + VDeploy |
 | **Trading Systems (personal interest)** | Learning | Studying market structure via a rules-based technical methodology, in practice-only phase |
  
@@ -132,16 +133,17 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
  
 ### 📍 Current Status
  
-> I don't have prior internship experience yet — I'm actively applying for my first Java backend internship rather than claiming one I haven't done. Everything above reflects real, verifiable project work.
+> I don't have prior internship experience yet — I'm actively applying for my first Java backend internship rather than claiming one I haven't done.
  
 ---
  
 ### 🏆 Achievements
  
 <div align="center">
+  
 | Recognition | Details |
 |---|---|
-| 🧩 **200+ DSA Problems** | Solved on LeetCode using Java, working through Striver's DSA Sheet |
+| 🧩 **200+ DSA Problems** | Solved on LeetCode using Java |
 | 🌐 **Deloitte Australia Job Simulation** | Completed via Forage, June 2025 |
 | ☁️ **Live Production Deployment** | Self-built and self-hosted VDeploy running on AWS EC2 |
  
@@ -187,10 +189,10 @@ building:
   - "Sharpening VDeploy with production-grade observability"
  
 exploring:
-  - "Backend engineering culture at product-based companies in Japan & SE Asia"
+  - "Backend engineering culture at product-based companies"
  
 open_to:
-  - "Java Backend Internships (India, remote)"
+  - "Java Backend Internships "
   - "Referrals & mentorship from backend engineers"
 ```
  
@@ -204,9 +206,11 @@ open_to:
 <a href="https://github.com/maniking1299"><img src="https://img.shields.io/badge/maniking1299-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
  
 </div>
+
 ---
  
 <div align="center">
+  
 *"Build it, break it, understand why it broke — then ship it."*
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
