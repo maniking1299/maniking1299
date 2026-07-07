@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/github/stars/maniking1299?color=7C3AED&style=flat-square&label=STARS"/>
 </div>
 <br/>
+
 ---
  
 ### 📌 About Me
@@ -43,9 +44,12 @@ Backend-focused Computer Science student building real systems with Java and Spr
 ### 🛠️ Tech Stack
  
 <div align="center">
+  
 **Languages**
  
 <img src="https://skillicons.dev/icons?i=java"/> <img src="https://skillicons.dev/icons?i=js"/>
+
+`Java` `Java Script`
  
 **Backend & APIs**
  
@@ -70,6 +74,7 @@ Backend-focused Computer Science student building real systems with Java and Spr
 `Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Operating Systems` `Computer Networks`
  
 </div>
+
 ---
  
 ### 💡 Engineering Focus Areas
@@ -122,6 +127,7 @@ My first full-stack project, built to understand the full request lifecycle from
 WanderLust predates my Java focus but I keep it front and center because it's honest proof I understand full-stack fundamentals — not just the Spring Boot side of the world.
  
 </details>
+
 ---
  
 ### 📍 Current Status
@@ -140,6 +146,7 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 | ☁️ **Live Production Deployment** | Self-built and self-hosted VDeploy running on AWS EC2 |
  
 </div>
+
 ---
  
 ### 👨‍💻 Coding Profiles
@@ -148,6 +155,7 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 <a href="https://leetcode.com/u/maniking1299/"><img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
  
 </div>
+
 ---
  
 ### 📈 Contribution Activity
@@ -155,6 +163,7 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maniking1299&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="95%"/>
 </div>
+
 ---
  
 ### 🐍 Contribution Snake
@@ -162,6 +171,7 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
 <div align="center">
 <img src="https://raw.githubusercontent.com/maniking1299/maniking1299/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
+
 ---
  
 ### 🎯 Current Focus
