@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Manish%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Building%20Scalable%20Backend%20Systems&descAlignY=58&descSize=18" width="100%"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+21+%7C+Spring+Boot+%7C+PostgreSQL;Backend+Engineer+in+Progress;Building+VDeploy+%E2%80%94+a+Self-Hosted+Deployment+Platform;Solved+200%2B+DSA+Problems+on+LeetCode;Actively+Seeking+Backend+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=950&lines=Java+21+%7C+Spring+Boot+%7C+PostgreSQL;Backend+Engineer+in+Progress;Built+VDeploy+%E2%80%94+a+Self-Hosted+Deployment+Platform;Solved+200%2B+DSA+Problems+on+LeetCode;Actively+Seeking+Backend+Internship+Opportunities" alt="Typing SVG" />
 </a>
 <br/><br/>
  
