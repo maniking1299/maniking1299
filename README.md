@@ -143,7 +143,7 @@ WanderLust predates my Java focus but I keep it front and center because it's ho
   
 | Recognition | Details |
 |---|---|
-| 🧩 **200+ DSA Problems** | Solved on LeetCode using Java |
+| 🧩 **350+ DSA Problems** | Solved using Java |
 | 🌐 **Deloitte Australia Job Simulation** | Completed via Forage, June 2025 |
 | ☁️ **Live Production Deployment** | Self-built and self-hosted VDeploy running on AWS EC2 |
  
